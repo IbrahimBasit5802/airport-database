@@ -40,7 +40,7 @@ of airplanes, their owners, airport employees, and pilots.
 
 <h3> Question 3 Explanation </h3>
 
-<p>  </p>
+<p> This SQL query retrieves all the registration numbers of airplanes that do not have any service records associated with them.  </p>
 
 <h3> Question 4 Code </h3>
 
@@ -52,7 +52,7 @@ of airplanes, their owners, airport employees, and pilots.
 
 <h3> Question 4 Explanation </h3>
 
-<p>  </p>
+<p> The query uses a subquery to select all corporation IDs from the ownerr table that own at least one airplane of the required type. It does so by selecting the owner IDs from the airplane table where the airplane type matches a subquery that selects the model numbers from the airplane_type table where the capacity is over 200. </p>
 
 <h3> Question 5 Code </h3>
 
@@ -64,7 +64,7 @@ of airplanes, their owners, airport employees, and pilots.
 
 <h3> Question 5 Explanation </h3>
 
-<p>  </p>
+<p> The query uses the avg() function to calculate the average salary of employees in the emp table who have a shifttime value of 'evening'. It uses the WHERE clause to filter out all other employees who do not work in the evening shift. </p>
 
 <h3> Question 6 Code </h3>
 
@@ -76,7 +76,7 @@ of airplanes, their owners, airport employees, and pilots.
 
 <h3> Question 6 Explanation </h3>
 
-<p>  </p>
+<p> The query uses a subquery to select the top 6 employee IDs from the servicerecords table with the highest number of maintenance hours worked. </p>
 
 <h3> Question 7 Code </h3>
 
@@ -88,7 +88,7 @@ of airplanes, their owners, airport employees, and pilots.
 
 <h3> Question 7 Explanation </h3>
 
-<p>  </p>
+<p> The query uses an INNER JOIN to combine the AIRPLANE and SERVICERECORDS tables based on the registration number column. This creates a result set that includes all airplanes and their corresponding service records. </p>
 
 <h3> Question 8 Code </h3>
 
