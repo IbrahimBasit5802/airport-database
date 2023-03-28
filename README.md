@@ -40,6 +40,8 @@ of airplanes, their owners, airport employees, and pilots.
 
 <h3> Question 3 Explanation </h3>
 
+<p>  </p>
+
 <h3> Question 4 Code </h3>
 
 ![alt text](https://github.com/IbrahimBasit5802/airport-database/blob/main/images/q4_code.png?raw=true)
@@ -49,6 +51,8 @@ of airplanes, their owners, airport employees, and pilots.
 ![alt text](https://github.com/IbrahimBasit5802/airport-database/blob/main/images/q4_output.png?raw=true)
 
 <h3> Question 4 Explanation </h3>
+
+<p>  </p>
 
 <h3> Question 5 Code </h3>
 
@@ -60,6 +64,8 @@ of airplanes, their owners, airport employees, and pilots.
 
 <h3> Question 5 Explanation </h3>
 
+<p>  </p>
+
 <h3> Question 6 Code </h3>
 
 ![alt text](https://github.com/IbrahimBasit5802/airport-database/blob/main/images/q6_code.png?raw=true)
@@ -69,6 +75,8 @@ of airplanes, their owners, airport employees, and pilots.
 ![alt text](https://github.com/IbrahimBasit5802/airport-database/blob/main/images/q6_output.png?raw=true)
 
 <h3> Question 6 Explanation </h3>
+
+<p>  </p>
 
 <h3> Question 7 Code </h3>
 
@@ -80,6 +88,8 @@ of airplanes, their owners, airport employees, and pilots.
 
 <h3> Question 7 Explanation </h3>
 
+<p>  </p>
+
 <h3> Question 8 Code </h3>
 
 ![alt text](https://github.com/IbrahimBasit5802/airport-database/blob/main/images/q8_code.png?raw=true)
@@ -89,6 +99,8 @@ of airplanes, their owners, airport employees, and pilots.
 ![alt text](https://github.com/IbrahimBasit5802/airport-database/blob/main/images/q8_output.png?raw=true)
 
 <h3> Question 8 Explanation </h3>
+
+<p>  </p>
 
 <h3> Question 9 Code </h3>
 
@@ -100,6 +112,8 @@ of airplanes, their owners, airport employees, and pilots.
 
 <h3> Question 9 Explanation </h3>
 
+<p>  </p>
+
 <h3> Question 10 Code </h3>
 
 ![alt text](https://github.com/IbrahimBasit5802/airport-database/blob/main/images/q10_code.png?raw=true)
@@ -109,6 +123,8 @@ of airplanes, their owners, airport employees, and pilots.
 ![alt text](https://github.com/IbrahimBasit5802/airport-database/blob/main/images/q10_output.png?raw=true)
 
 <h3> Question 10 Explanation </h3>
+
+<p>  </p>
 
 <h3> Question 11 Code </h3>
 
@@ -120,6 +136,8 @@ of airplanes, their owners, airport employees, and pilots.
 
 <h3> Question 11 Explanation </h3>
 
+<p>  </p>
+
 <h3> Question 12 Code </h3>
 
 ![alt text](https://github.com/IbrahimBasit5802/airport-database/blob/main/images/q12_code.png?raw=true)
@@ -129,6 +147,8 @@ of airplanes, their owners, airport employees, and pilots.
 ![alt text](https://github.com/IbrahimBasit5802/airport-database/blob/main/images/q12_output.png?raw=true)
 
 <h3> Question 12 Explanation </h3>
+
+<p>  </p>
 
 <h3> Question 13 Code </h3>
 
@@ -140,6 +160,8 @@ of airplanes, their owners, airport employees, and pilots.
 
 <h3> Question 13 Explanation </h3>
 
+<p>  </p>
+
 <h3> Question 14 Code </h3>
 
 ![alt text](https://github.com/IbrahimBasit5802/airport-database/blob/main/images/q14_code.png?raw=true)
@@ -149,6 +171,8 @@ of airplanes, their owners, airport employees, and pilots.
 ![alt text](https://github.com/IbrahimBasit5802/airport-database/blob/main/images/q14_output.png?raw=true)
 
 <h3> Question 14 Explanation </h3>
+
+<p>  </p>
 
 <h3> Question 15 Code </h3>
 
@@ -160,6 +184,8 @@ of airplanes, their owners, airport employees, and pilots.
 
 <h3> Question 15 Explanation </h3>
 
+<p>  </p>
+
 <h3> Question 16 Code </h3>
 
 ![alt text](https://github.com/IbrahimBasit5802/airport-database/blob/main/images/q16_code.png?raw=true)
@@ -169,6 +195,8 @@ of airplanes, their owners, airport employees, and pilots.
 ![alt text](https://github.com/IbrahimBasit5802/airport-database/blob/main/images/q16_output.png?raw=true)
 
 <h3> Question 16 Explanation </h3>
+
+<p>  </p>
 
 <h3> Question 17 Code </h3>
 
@@ -180,6 +208,8 @@ of airplanes, their owners, airport employees, and pilots.
 
 <h3> Question 17 Explanation </h3>
 
+<p>  </p>
+
 <h3> Question 18 Code </h3>
 
 ![alt text](https://github.com/IbrahimBasit5802/airport-database/blob/main/images/q18_code.png?raw=true)
@@ -189,6 +219,8 @@ of airplanes, their owners, airport employees, and pilots.
 ![alt text](https://github.com/IbrahimBasit5802/airport-database/blob/main/images/q18_output.png?raw=true)
 
 <h3> Question 18 Explanation </h3>
+
+<p>  </p>
 
 <h3> Question 19 Code </h3>
 
@@ -200,6 +232,8 @@ of airplanes, their owners, airport employees, and pilots.
 
 <h3> Question 19 Explanation </h3>
 
+<p>  </p>
+
 <h3> Question 20 Code </h3>
 
 ![alt text](https://github.com/IbrahimBasit5802/airport-database/blob/main/images/q20_code.png?raw=true)
@@ -209,6 +243,8 @@ of airplanes, their owners, airport employees, and pilots.
 ![alt text](https://github.com/IbrahimBasit5802/airport-database/blob/main/images/q20_output.png?raw=true)
 
 <h3> Question 20 Explanation </h3>
+
+<p>  </p>
 
 <h3> Question 21 Code </h3>
 
@@ -220,6 +256,8 @@ of airplanes, their owners, airport employees, and pilots.
 
 <h3> Question 21 Explanation </h3>
 
+<p>  </p>
+
 <h3> Question 22 Code </h3>
 
 ![alt text](https://github.com/IbrahimBasit5802/airport-database/blob/main/images/q22_code.png?raw=true)
@@ -229,6 +267,8 @@ of airplanes, their owners, airport employees, and pilots.
 ![alt text](https://github.com/IbrahimBasit5802/airport-database/blob/main/images/q22_output.png?raw=true)
 
 <h3> Question 22 Explanation </h3>
+
+<p>  </p>
 
 <h3> Question 23 Code </h3>
 
@@ -240,6 +280,8 @@ of airplanes, their owners, airport employees, and pilots.
 
 <h3> Question 23 Explanation </h3>
 
+<p>  </p>
+
 <h3> Question 24 Code </h3>
 
 ![alt text](https://github.com/IbrahimBasit5802/airport-database/blob/main/images/q24_code.png?raw=true)
@@ -249,6 +291,8 @@ of airplanes, their owners, airport employees, and pilots.
 ![alt text](https://github.com/IbrahimBasit5802/airport-database/blob/main/images/q24_output.png?raw=true)
 
 <h3> Question 24 Explanation </h3>
+
+<p>  </p>
 
 <h3> Question 25 Query 1 Code </h3>
 
@@ -260,6 +304,8 @@ of airplanes, their owners, airport employees, and pilots.
 
 <h3> Question 25 Query 1 Explanation </h3>
 
+<p>  </p>
+
 <h3> Question 25 Query 2 Code </h3>
 
 ![alt text](https://github.com/IbrahimBasit5802/airport-database/blob/main/images/q25_2_code.png?raw=true)
@@ -269,6 +315,8 @@ of airplanes, their owners, airport employees, and pilots.
 ![alt text](https://github.com/IbrahimBasit5802/airport-database/blob/main/images/q25_2_output.png?raw=true)
 
 <h3> Question 25 Query 2 Explanation </h3>
+
+<p>  </p>
 
 <h3> Question 25 Query 3 Code </h3>
 
@@ -280,6 +328,8 @@ of airplanes, their owners, airport employees, and pilots.
 
 <h3> Question 25 Query 3 Explanation </h3>
 
+<p>  </p>
+
 <h3> Question 25 Query 4 Code </h3>
 
 ![alt text](https://github.com/IbrahimBasit5802/airport-database/blob/main/images/q25_4_code.png?raw=true)
@@ -289,3 +339,5 @@ of airplanes, their owners, airport employees, and pilots.
 ![alt text](https://github.com/IbrahimBasit5802/airport-database/blob/main/images/q25_4_output.png?raw=true)
 
 <h3> Question 25 Query 4 Explanation </h3>
+
+<p>  </p>
