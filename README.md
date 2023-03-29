@@ -100,7 +100,7 @@ of airplanes, their owners, airport employees, and pilots.
 
 <h3> Question 8 Explanation </h3>
 
-<p>  </p>
+<p> This query retrieves a list of airplane owners' IDs, names, and phone numbers who have owned airplanes within the last month. The data is obtained by joining the AIRPLANE, OWNER, and PERSON tables and applying a date filter. The DISTINCT keyword is used to remove duplicate values from the output. </p>
 
 <h3> Question 9 Code </h3>
 
@@ -112,7 +112,7 @@ of airplanes, their owners, airport employees, and pilots.
 
 <h3> Question 9 Explanation </h3>
 
-<p>  </p>
+<p> This query retrieves a list of pilots license numbers and the number of unique authorized planes each pilot can fly, based on the restrictions listed in the Pilot_Restr table. The data is obtained by joining the PILOT and Pilot_Restr tables, grouping the results by license number, and counting the number of distinct restriction values for each pilot. The output is then sorted in ascending order by license number. </p>
 
 <h3> Question 10 Code </h3>
 
@@ -124,7 +124,7 @@ of airplanes, their owners, airport employees, and pilots.
 
 <h3> Question 10 Explanation </h3>
 
-<p>  </p>
+<p> the query retrieves the location and capacity of the hangar with the largest capacity in the hangar table. The output is obtained by sorting the table in descending order of capacity and selecting the top row, which represents the hangar with the highest capacity. </p>
 
 <h3> Question 11 Code </h3>
 
@@ -136,7 +136,7 @@ of airplanes, their owners, airport employees, and pilots.
 
 <h3> Question 11 Explanation </h3>
 
-<p>  </p>
+<p> This query retrieves a list of corporations and the number of planes each corporation owns, based on the data in the COORPORATIONS, OWNERR, and AIRPLANE tables. The data is obtained by joining the tables, grouping the results by corporation name, and counting the number of distinct airplanes associated with each corporation. The output is then sorted in descending order of the number of planes. </p>
 
 <h3> Question 12 Code </h3>
 
@@ -148,7 +148,7 @@ of airplanes, their owners, airport employees, and pilots.
 
 <h3> Question 12 Explanation </h3>
 
-<p>  </p>
+<p> This query retrieves a list of airplane models and the average number of maintenance hours for each model, based on data from the AIRPLANE_TYPE, AIRPLANE, and SERVICERECORDS tables. The data is obtained by joining the tables, grouping the results by airplane model, and calculating the average of the maintenance hours recorded in the SERVICERECORDS table for each airplane model. The output is then sorted in descending order of the average number of maintenance hours. </p>
 
 <h3> Question 13 Code </h3>
 
@@ -160,7 +160,7 @@ of airplanes, their owners, airport employees, and pilots.
 
 <h3> Question 13 Explanation </h3>
 
-<p>  </p>
+<p> This query retrieves a list of names of airplane owners whose airplanes require maintenance but have no available mechanic to work on them. The data is obtained by joining multiple tables and filtering the output to exclude cases where the airplanes are unable to get serviced due to no available employees that can work on them. </p>
 
 <h3> Question 14 Code </h3>
 
@@ -172,7 +172,7 @@ of airplanes, their owners, airport employees, and pilots.
 
 <h3> Question 14 Explanation </h3>
 
-<p>  </p>
+<p> This query retrieves a list of owner names and addresses for both individual and corporate owners by joining the OWNERR, PERSON, and CORPORATIONS tables. It then uses a case statement to select the appropriate name and address columns based on the owner type column value. Finally, it filters the output to exclude any rows where both the PERSON.NAME and CORPORATIONS.CNAME columns are null. </p>
 
 <h3> Question 15 Code </h3>
 
@@ -184,7 +184,7 @@ of airplanes, their owners, airport employees, and pilots.
 
 <h3> Question 15 Explanation </h3>
 
-<p>  </p>
+<p> This query retrieves the license numbers of pilots who have worked on planes with restricted service records on the current date. It does so by joining the PILOT, PILOT_RESTR, and SERVICERECORDS tables and filtering the output based on the current date. Finally, it selects the license numbers from the PILOT table. </p>
 
 <h3> Question 16 Code </h3>
 
@@ -196,7 +196,7 @@ of airplanes, their owners, airport employees, and pilots.
 
 <h3> Question 16 Explanation </h3>
 
-<p>  </p>
+<p> This query retrieves the total number of hours worked by employees of Acme Corp on all planes that they have serviced. It does so by joining the EMP, SERVICERECORDS, AIRPLANE, OWNER, and COORPORATIONS tables and filtering the result set to only include rows where the value of COORPORATIONS.CNAME is equal to Acme Corp. Finally, it groups the output by employee and computes the total number of hours worked by each employee. </p>
 
 <h3> Question 17 Code </h3>
 
@@ -208,7 +208,7 @@ of airplanes, their owners, airport employees, and pilots.
 
 <h3> Question 17 Explanation </h3>
 
-<p>  </p>
+<p> This query selects the name and registration number of airplanes that is owned by a person and if it hasn't been serviced by morning shift employees </p>
 
 <h3> Question 18 Code </h3>
 
@@ -220,7 +220,7 @@ of airplanes, their owners, airport employees, and pilots.
 
 <h3> Question 18 Explanation </h3>
 
-<p>  </p>
+<p> This query retrieves a list of owner names and addresses for both individual and corporate owners by joining the OWNER, PERSON, and CORPORATIONS tables. It then uses a case statement to select the appropriate name and address columns based on the owner type column value. Finally, it filters the output to exclude any rows where both the PERSON.NAME and CORPORATIONS.CNAME columns are null. </p>
 
 <h3> Question 19 Code </h3>
 
@@ -232,7 +232,7 @@ of airplanes, their owners, airport employees, and pilots.
 
 <h3> Question 19 Explanation </h3>
 
-<p>  </p>
+<p> This query selects the hangar ID and the total number of planes stored in each hangar. It starts with selecting the hangar ID and counting the number of planes that are stored in each hangar. The join is done with the LEFT JOIN keyword which ensures that all hangars are included in the result set. The GROUP BY clause groups the output by the hangar ID. </p>
 
 <h3> Question 20 Code </h3>
 
@@ -244,7 +244,7 @@ of airplanes, their owners, airport employees, and pilots.
 
 <h3> Question 20 Explanation </h3>
 
-<p>  </p>
+<p> This query groups the airplanes in the airplane table by their type and counts the number of planes for each type. </p>
 
 <h3> Question 21 Code </h3>
 
@@ -256,7 +256,7 @@ of airplanes, their owners, airport employees, and pilots.
 
 <h3> Question 21 Explanation </h3>
 
-<p>  </p>
+<p> This query will return the total number of services performed on each airplane using count function </p>
 
 <h3> Question 22 Code </h3>
 
@@ -268,7 +268,7 @@ of airplanes, their owners, airport employees, and pilots.
 
 <h3> Question 22 Explanation </h3>
 
-<p>  </p>
+<p> This query retrieves the shift time and calculates the avg of MOrning and Evening Employees using the AVG function. </p>
 
 <h3> Question 23 Code </h3>
 
@@ -280,7 +280,7 @@ of airplanes, their owners, airport employees, and pilots.
 
 <h3> Question 23 Explanation </h3>
 
-<p>  </p>
+<p> This query uses an inner join on the AIRPLANE and OWNER tables to get the owner ID of each airplane, and then left joins with the PERSON and COORPORATIONS tables to get the name of the owner based on their ID. The CASE statement is used to handle cases where the owner is an individual or a corporation. Then the output is grouped by the owner name using another CASE statement and the COUNT function is used to get the total number of planes owned by each owner. </p>
 
 <h3> Question 24 Code </h3>
 
@@ -292,7 +292,7 @@ of airplanes, their owners, airport employees, and pilots.
 
 <h3> Question 24 Explanation </h3>
 
-<p>  </p>
+<p> This query selects the pilot license number and the count of distinct planes that the pilot is authorized to fly. It joins the tables PILOT and PILOT_RESTR on the LICNUM and PID columns, respectively, and groups the result by LICNUM. The output is then ordered by LICNUM </p>
 
 <h3> Question 25 Query 1 Code </h3>
 
@@ -304,7 +304,7 @@ of airplanes, their owners, airport employees, and pilots.
 
 <h3> Question 25 Query 1 Explanation </h3>
 
-<p>  </p>
+<p> This query retrieves the total number of employees in each shift. It uses the EMP table to group employees by their shift time and count the number of employees in each shift. </p>
 
 <h3> Question 25 Query 2 Code </h3>
 
@@ -316,7 +316,7 @@ of airplanes, their owners, airport employees, and pilots.
 
 <h3> Question 25 Query 2 Explanation </h3>
 
-<p>  </p>
+<p> This query retrieves the airplane that has undergone the most maintenance. It uses the AIRPLANE and SERVICERECORDS tables to join the number of maintenance services with the airplane type and group by the airplane type. Then, it sorts the output in descending order and returns the top 5 airplane types with the highest number of maintenance services. </p>
 
 <h3> Question 25 Query 3 Code </h3>
 
@@ -328,7 +328,7 @@ of airplanes, their owners, airport employees, and pilots.
 
 <h3> Question 25 Query 3 Explanation </h3>
 
-<p>  </p>
+<p> This query retrieves the total weight of all airplanes owned by each corporation. It uses the AIRPLANE_TYPE, AIRPLANE, and OWNER tables to join airplane weight with the airplane model number, and then joins the airplane owner with their corporation ID. Then, it groups the results by corporation ID and calculates the sum of the airplane weights for each corporation. </p>
 
 <h3> Question 25 Query 4 Code </h3>
 
@@ -340,4 +340,4 @@ of airplanes, their owners, airport employees, and pilots.
 
 <h3> Question 25 Query 4 Explanation </h3>
 
-<p>  </p>
+<p> This query calculates the number of owners that are persons and corporations. It uses the OWNER and COORPORATIONS tables to join the owner type with the person or corporation ID. Then, it groups the output by the owner type and calculates the count of persons, corporations, and total number of owners. It also uses left join to include all records from the OWNER table, even if there is no match in the COORPORATIONS table. </p>
