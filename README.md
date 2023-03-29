@@ -100,7 +100,7 @@ of airplanes, their owners, airport employees, and pilots.
 
 <h3> Question 8 Explanation </h3>
 
-<p> This query retrieves a list of airplane owners' IDs, names, and phone numbers who have owned airplanes within the last month. The data is obtained by joining the AIRPLANE, OWNER, and PERSON tables and applying a date filter. The DISTINCT keyword is used to remove duplicate values from the output. </p>
+<p> This query retrieves a list of airplane owners ID, names, and phone numbers who have owned airplanes within the last month. The data is obtained by joining the AIRPLANE, OWNER, and PERSON tables and applying a date filter. The DISTINCT keyword is used to remove duplicate values from the output. </p>
 
 <h3> Question 9 Code </h3>
 
