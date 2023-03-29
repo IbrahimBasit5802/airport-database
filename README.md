@@ -8,6 +8,9 @@ of airplanes, their owners, airport employees, and pilots.
 
 ![alt text](https://github.com/IbrahimBasit5802/airport-database/blob/main/q1%20and%20RelationalSchema/AirplaneDatabaseSystem_ERD.png?raw=true)
 
+<h3> ERD EXPLANATION </h3>
+
+<p> This entity relationship diagram has 8 entities with numerous relationship between them. The airplane entity stores information about the airplanes of the airport. One airplane can be stored at at most one hangar while a hangar may house multiple planes if its capacity allows. Airplanes are identified by their unique Registration Number and is owned by either a coorporation or a person. Both the coorporation and person entities are subtypes of the Owner with an OwnerID to uniquely identify them. Moreover, each coorpration is uniquely identified by their name and person from their SSN. Pilot and Employee entitites inherit from the Person class. Both Employee and Pilot entities have a multi-valued attribute to signify what they are authorized to fly and work on. Each airplane can undergo maintainence and hence a weak entity of service records exists with identifying relationships like maintaines and serviced. Lastly, an airplane_type entity stores information about the models of the planes.</p>
 
 <h2> Relational Schema </h2>
 
